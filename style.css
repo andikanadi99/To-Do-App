@@ -1,0 +1,33 @@
+html{
+  background-color: black;
+  margin-top: 100px;
+  
+}
+body{
+  height: 100%;
+  width: 100%;
+  vertical-align: middle;
+}
+
+.Title-Header{
+  color: white;
+  text-align: center;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.To-Do-Box{
+  background-color: white;
+  min-height: 100px;
+  width:400px;
+  margin: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+
+#input-box{
+  display: inline-block;
+}
+
+
